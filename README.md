@@ -2,4 +2,4 @@
 
 experiments with subscribing to events from pulseaudio, networkmanager, mpd, xkb, etc.
 
-for now, there isn't much to see here.
+eventually, this will be the backbone of a dwm bar program that updates the bar based on events from the mentioned daemons.
